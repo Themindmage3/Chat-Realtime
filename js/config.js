@@ -9,8 +9,8 @@ const imageDir = 'image';
 
 // Replace with: your firebase account
 const config = {
-    apiKey: "REPLACE",
-    databaseURL: "https://REPLACE.firebaseio.com"
+    apiKey: "AIzaSyAvjpabeqd4KHgQcHCcMzaemVZUsfRgmyA",
+  authDomain: "sigma-14368.firebaseapp.com"
 };
 firebase.initializeApp(config);
 
